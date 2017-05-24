@@ -1,6 +1,6 @@
 {
   "name": "recaptcha-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check reCAPTCHA token with google (server side)",
   "main": "index.js",
   "scripts": {
