@@ -1,7 +1,9 @@
-reCAPTCHA checker
+reCAPTCHA check
 ===
 
 Checks the token included in the form when using "invisible reCCAPTCHA" as defined in [reCAPTCHA documentation](https://developers.google.com/recaptcha/)
+
+This module is to be used server-side
 
 USE
 ==
@@ -17,4 +19,4 @@ USE
     })
 ```
 
-get yoour private token from the [reCAPTCHA admin](https://www.google.com/recaptcha/admin)
+get your *private token* from the [reCAPTCHA admin](https://www.google.com/recaptcha/admin)
