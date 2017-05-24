@@ -1,0 +1,30 @@
+{
+  "name": "recaptcha-check",
+  "version": "1.0.0",
+  "description": "Check reCAPTCHA token with google (server side)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guerrerocarlos/recaptcha-check.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "verify",
+    "google",
+    "check"
+  ],
+  "author": "Carlos Guerrero <guerrerocarlos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guerrerocarlos/recaptcha-check/issues"
+  },
+  "homepage": "https://github.com/guerrerocarlos/recaptcha-check#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "debug": "^2.6.8",
+    "request": "^2.81.0"
+  }
+}
