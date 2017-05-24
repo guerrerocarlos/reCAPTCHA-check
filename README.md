@@ -6,7 +6,7 @@ Checks the token included in the form when using "invisible reCCAPTCHA" as defin
 USE
 ==
 
-`` javascript
+```javascript
     var checkCaptcha = require('recaptcha-check')('your-private-token-here')
 
     checkCaptcha('token-from-form', 'user-remote-ip').then(function success(){
@@ -15,6 +15,6 @@ USE
     function error(){
         console.log('error :(')
     })
-``
+```
 
 get yoour private token from the [reCAPTCHA admin](https://www.google.com/recaptcha/admin)
