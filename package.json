@@ -1,6 +1,6 @@
 {
   "name": "recaptcha-check",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check reCAPTCHA token with google (server side)",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/guerrerocarlos/recaptcha-check#readme",
   "dependencies": {
     "colors": "^1.1.2",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "request": "^2.81.0"
   }
 }
